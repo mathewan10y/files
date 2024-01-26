@@ -4,3 +4,4 @@
 
 import shutil
 shutil.copy('text.txt','copy.txt') # (source,destination)
+

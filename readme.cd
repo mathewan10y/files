@@ -1,0 +1,5 @@
+git innit
+git remote add origin git@github.com:mathewan10y/demo2.git
+git push -u origin master  
+      -u is upstream (for using just push from now onwards and avoiding typing origin master each time)
+      
