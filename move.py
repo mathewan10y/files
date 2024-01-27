@@ -3,8 +3,8 @@
 
 
 import os
-source='move.txt'
-destination='C:\\Users\\mathe\\Desktop\\py\\dictionary\\move.txt'
+source='C:\\Users\\mathe\\Desktop\\py\\files\\move.txt'
+destination='C:\\Users\\mathe\\Desktop\\move.txt'
 
 try:
     if os.path.exists(destination):
