@@ -18,4 +18,6 @@ try:
 except FileNotFoundError:
     print('file was not found')
 
-# move.txt file was moved from files to the desktop
+# move.txt file was moved from files to the desktop 
+# similarly a folder can also be moved
+    
