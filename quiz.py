@@ -19,7 +19,6 @@ def newgame():
 #--------------------
 
 def checkans(ans,guess):
-    print(ans,guess,sep='\n')
     if guess==ans:
         print('correct ans')
         return 1
